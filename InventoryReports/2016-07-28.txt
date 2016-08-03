@@ -1,0 +1,10 @@
+THIS REPORT SHOWS INFORMATION ON INVENTORY
+-----------------------------------------
+Salt:
+Sugar:
+Yeast:
+Tomato:
+Lemon:
+Cheese:
+Sauce:
+Test:

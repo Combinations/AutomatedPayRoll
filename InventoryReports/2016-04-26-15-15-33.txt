@@ -1,0 +1,10 @@
+THIS REPORT SHOWS INFORMATION ON INVENTORY
+-----------------------------------------
+Salt:eqw
+Sugar:qwe
+Yeast:qwe
+Tomato:qwe
+Lemon:qwe
+Cheese:qwe
+Sauce:eq
+Test:qwe
